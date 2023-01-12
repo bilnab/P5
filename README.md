@@ -1,5 +1,5 @@
 # P5  
-<img src="https://github.com/bilnab/P5/blob/main/img/sk.jpg" width="150"> <img src="https://github.com/bilnab/P5/blob/main/img/yellowbrick.png" width="150">  
+<img src="https://github.com/bilnab/P5/blob/main/img/sk.png" width="150"> <img src="https://github.com/bilnab/P5/blob/main/img/yellobrick.png" width="150">  
 
  
 **Projet de segmentation de clientèle - Classification non supervisée**  
