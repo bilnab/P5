@@ -5,7 +5,7 @@
 L'enjeu est de fournir une segmentation de clients:   
 * facile d'utilisation, ayant pour vocation à cibler des campagnes de communication.  
 	* en fournissant une description et la logique sous jascente de la segmentation  
-	* permetant de comprendre les typologies d'utilisateurs  
+	* permettant de comprendre les typologies d'utilisateurs  
 * avec une proposition de contrat de maintenance se basant sur une analyse de la stabilité des segments au cours du temps
 
 ## Ressources:    
